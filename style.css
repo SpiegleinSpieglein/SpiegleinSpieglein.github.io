@@ -5,7 +5,7 @@ body{
 }
 
 .grid div:nth-child(even) {
-    background-color: #bf7677;
+    background-color: 'lightblue';
 }
 
 .title{
